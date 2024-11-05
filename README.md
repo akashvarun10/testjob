@@ -8,4 +8,5 @@
 ## Full Time Positions
 | Website | URL | Date |
 |----------|-----|------|
+| www.atlassian.com | https://www.atlassian.com/company/careers/details/15726 | 11/5/2024 |
 | globalcareers-atlassian.icims.com | https://globalcareers-atlassian.icims.com/jobs/15787/machine-learning-engineer/job?iis=LinkedIn&iisn=LinkedIn_Job_Ad&mobile=false&width=1344&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240 | 11/5/2024 |
