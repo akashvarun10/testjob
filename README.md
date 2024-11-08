@@ -10,6 +10,7 @@
 ## Full Time Positions
 | Website | URL | Date |
 |----------|-----|------|
+| careers.hpe.com | https://careers.hpe.com/us/en/job/1179137/Hewlett-Packard-Labs---HSC-AI-and-Serverless-Frameworks-Research-Associate-Intern?utm_source=linkedin | 11/8/2024 |
 | jobs.careers.microsoft.com | https://jobs.careers.microsoft.com/us/en/job/1781619/Principal-Applied-Scientist?jobsource=linkedin | 11/5/2024 |
 | www.amazon.jobs | https://www.amazon.jobs/en/jobs/2813259/software-development-engineer-level-5-aws-field-experience-afx?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com | 11/5/2024 |
 | www.atlassian.com | https://www.atlassian.com/company/careers/details/15726 | 11/5/2024 |
